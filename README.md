@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi there 👋
+
+Currently an infrastructure engineer that is working on skilling up. If you've stumbled upon this profile and doing the same, always looking to collaborate learning!
 
 <!--
 **joshdoesaws/joshdoesaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
