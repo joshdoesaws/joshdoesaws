@@ -2,6 +2,9 @@
 
 Currently an infrastructure engineer that is working on skilling up. If you've stumbled upon this profile and doing the same, always looking to collaborate learning!
 
+I'm currently working on the Learn to Cloud process. 
+
+
 <!--
 **joshdoesaws/joshdoesaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
